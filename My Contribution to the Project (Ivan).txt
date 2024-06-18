@@ -1,0 +1,8 @@
+My Contribution to the Project (Ivan)
+*-----------------------------------*
+- Delegated tasks to accomodate the production of the game over a 10 week span
+- Managed the group of programmers/ designers over Slack and Github Project
+- Created code to transition between scenes
+- Continously playtested the game and brought up issues that needed to be fixed
+- Added and found music/sfx to the game
+- Simple bug fixes
