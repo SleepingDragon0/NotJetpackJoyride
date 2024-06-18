@@ -28,7 +28,12 @@ The project had a member in charge of
 
 ![Coins and Rockets](https://github.com/SleepingDragon0/NotJetpackJoyride/blob/main/NotJetpackJoyrideProject/jetPackPlayingII.gif)
 
+````
+https://github.com/SleepingDragon0/NotJetpackJoyride.git
+````
 #### Instructions to Use
-
     1. Download Unity Version 2022.3.23f1
-    2. Clone the Github in Github Desktop https://github.com/SleepingDragon0/NotJetpackJoyride.git
+    2. Clone the Github in Github Desktop 
+    3. Open the project in Unity
+    4. Go to Scenes Folder
+    5. Open 00_Menu Scene
