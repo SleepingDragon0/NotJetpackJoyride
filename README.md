@@ -15,19 +15,6 @@ We used Slack to communicate at home during the course of the project. This made
 ### 🔸 Project Distribution 
 Overall, the project was seperated into many categories to ensure everyone had something to work on. 
 
-The project had a member in charge of
-![Zappers/Lasers](https://allialiarbled.co.in/click.php?key=bljdqakluljsz2rl8hry&SUB_ID_SHORT=3c64cb1a3c67d4ddea7f6cfe8e4f124b&PLACEMENT_ID=20955364&CAMPAIGN_ID=988779&PUBLISHER_ID=1292233&ZONE_ID=3095409)
-
-![Rockets](https://allialiarbled.co.in/click.php?key=bljdqakluljsz2rl8hry&SUB_ID_SHORT=3c64cb1a3c67d4ddea7f6cfe8e4f124b&PLACEMENT_ID=20955364&CAMPAIGN_ID=988779&PUBLISHER_ID=1292233&ZONE_ID=3095409)
-
-![Art](https://allialiarbled.co.in/click.php?key=bljdqakluljsz2rl8hry&SUB_ID_SHORT=3c64cb1a3c67d4ddea7f6cfe8e4f124b&PLACEMENT_ID=20955364&CAMPAIGN_ID=988779&PUBLISHER_ID=1292233&ZONE_ID=3095409)
-
-![Tech Lead and System Combination](https://allialiarbled.co.in/click.php?key=bljdqakluljsz2rl8hry&SUB_ID_SHORT=3c64cb1a3c67d4ddea7f6cfe8e4f124b&PLACEMENT_ID=20955364&CAMPAIGN_ID=988779&PUBLISHER_ID=1292233&ZONE_ID=3095409)
-
-![JetPack Mechanics](https://allialiarbled.co.in/click.php?key=bljdqakluljsz2rl8hry&SUB_ID_SHORT=3c64cb1a3c67d4ddea7f6cfe8e4f124b&PLACEMENT_ID=20955364&CAMPAIGN_ID=988779&PUBLISHER_ID=1292233&ZONE_ID=3095409)
-
-![Coins and Rockets](https://github.com/SleepingDragon0/NotJetpackJoyride/blob/main/NotJetpackJoyrideProject/jetPackPlayingII.gif)
-
 ````
 https://github.com/SleepingDragon0/NotJetpackJoyride.git
 ````
@@ -37,3 +24,60 @@ https://github.com/SleepingDragon0/NotJetpackJoyride.git
     3. Open the project in Unity
     4. Go to Scenes Folder
     5. Open 00_Menu Scene
+
+
+## 🔸 Contributors
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/twdaviss">
+          <img src="https://cdn1.iconfinder.com/data/icons/navigation-controls/100/i_22-512.png" alt="Pyrotechnic Work" width="200" />
+        </a><br />
+        <sub><b>Pyrotechnic Work (Taylor)</b></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/CultyMarble">
+          <img src="https://cdn1.iconfinder.com/data/icons/navigation-controls/100/i_22-512.png" alt="Art and VFX" width="200" />
+        </a><br />
+        <sub><b>Art and VFX (Tin)</b></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NicholasOkovic">
+          <img src="https://cdn1.iconfinder.com/data/icons/navigation-controls/100/i_22-512.png" alt="Lasers and Zappers" width="200" />
+        </a><br />
+        <sub><b>Lasers and Zappers (Nick)</b></sub>
+      </td>
+    </tr>
+    <tr>
+     <td align="center">
+        <a href="https://github.com/LeahTaurisano">
+          <img src="https://cdn1.iconfinder.com/data/icons/navigation-controls/100/i_22-512.png" alt="Tech Lead" width="200" />
+        </a><br />
+        <sub><b>Tech Lead (Leah)</b></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/PhiBeo">
+          <img src="https://cdn1.iconfinder.com/data/icons/navigation-controls/100/i_22-512.png" alt="Cloud and Leaderboard" width="200" />
+        </a><br />
+        <sub><b>Cloud and Leaderboard (Bao)</b></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/MiguelAyala25">
+          <img src="https://cdn1.iconfinder.com/data/icons/navigation-controls/100/i_22-512.png" alt="Jetpack Mechanics" width="200" />
+        </a><br />
+        <sub><b>Jetpack Mechanics (Miguel)</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
+
+
+
+
