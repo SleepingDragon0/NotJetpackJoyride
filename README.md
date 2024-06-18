@@ -26,52 +26,52 @@ https://github.com/SleepingDragon0/NotJetpackJoyride.git
     5. Open 00_Menu Scene
 
 
-## 🔸 Contributors
+# 🔹 Contributors
+
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" style="border: none;">
         <a href="https://github.com/twdaviss">
-          <img src="https://cdn1.iconfinder.com/data/icons/navigation-controls/100/i_22-512.png" alt="Pyrotechnic Work" width="200" />
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsVIT7VM7PaLdEP2HytWcmVJjELdqFl2ZlWQ&s" alt="Pyrotechnic Work" width="100" />
         </a><br />
-        <sub><b>Pyrotechnic Work (Taylor)</b></sub>
+        <sub><b style="font-size:20px;">Pyrotechnic Work (Taylor)</b></sub>
       </td>
-      <td align="center">
+      <td align="center" style="border: none;">
         <a href="https://github.com/CultyMarble">
-          <img src="https://cdn1.iconfinder.com/data/icons/navigation-controls/100/i_22-512.png" alt="Art and VFX" width="200" />
+          <img src="https://cdn0.iconfinder.com/data/icons/occupation-1/64/Artboard_17-512.png" alt="Art and VFX" width="100" />
         </a><br />
-        <sub><b>Art and VFX (Tin)</b></sub>
+        <sub><b style="font-size:16px;">Art and VFX (Tin)</b></sub>
       </td>
-      <td align="center">
+      <td align="center" style="border: none;">
         <a href="https://github.com/NicholasOkovic">
-          <img src="https://cdn1.iconfinder.com/data/icons/navigation-controls/100/i_22-512.png" alt="Lasers and Zappers" width="200" />
+          <img src="https://icons.iconarchive.com/icons/icons8/ios7/512/Industry-Laser-Beam-icon.png" alt="Lasers and Zappers" width="100" />
         </a><br />
-        <sub><b>Lasers and Zappers (Nick)</b></sub>
+        <sub><b style="font-size:16px;">Lasers and Zappers (Nick)</b></sub>
       </td>
-    </tr>
-    <tr>
-     <td align="center">
+      <td align="center" style="border: none;">
         <a href="https://github.com/LeahTaurisano">
-          <img src="https://cdn1.iconfinder.com/data/icons/navigation-controls/100/i_22-512.png" alt="Tech Lead" width="200" />
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx19i0CANDZX51wTBGQguixHGkmBm8i3T4TQ&s" alt="Tech Lead" width="100" />
         </a><br />
-        <sub><b>Tech Lead (Leah)</b></sub>
+        <sub><b style="font-size:16px;">Tech Lead (Leah)</b></sub>
       </td>
-      <td align="center">
+      <td align="center" style="border: none;">
         <a href="https://github.com/PhiBeo">
-          <img src="https://cdn1.iconfinder.com/data/icons/navigation-controls/100/i_22-512.png" alt="Cloud and Leaderboard" width="200" />
+          <img src="https://cdn2.iconfinder.com/data/icons/cloud-computing-1/512/user-512.png" alt="Cloud and Leaderboard" width="100" />
         </a><br />
-        <sub><b>Cloud and Leaderboard (Bao)</b></sub>
+        <sub><b style="font-size:16px;">Cloud and Leaderboard (Bao)</b></sub>
       </td>
-      <td align="center">
+      <td align="center" style="border: none;">
         <a href="https://github.com/MiguelAyala25">
-          <img src="https://cdn1.iconfinder.com/data/icons/navigation-controls/100/i_22-512.png" alt="Jetpack Mechanics" width="200" />
+          <img src="https://cdn-icons-png.freepik.com/512/12775/12775612.png" alt="Jetpack Mechanics" width="100" />
         </a><br />
-        <sub><b>Jetpack Mechanics (Miguel)</b></sub>
+        <sub><b style="font-size:16px;">Jetpack Mechanics (Miguel)</b></sub>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
