@@ -8,7 +8,7 @@ Most of my contribution to this project was through the eyes of a Project/Produc
 Tasks were assigned through Github Projects and were seperated between Backlog, To do, In Progress, and Done. Backlog was created for tasks that I had created but were not yet assigned to a  classmate. To do was made as a category for tasks that were assigned and had a classmate who could work on them. Once a classmate received their task they would tell me once they had started working on it. I would then move the task to In Progress. Once a task was finished, the Head of the Programming department and I would look over what they had done and move it to the finished category.
 
 ### 🔸 Slack 
-![App Screenshot](https://github.com/SleepingDragon0/NotJetpackJoyride/blob/main/NotJetpackJoyrideProject/slack.png)
+![Slack img](https://github.com/SleepingDragon0/NotJetpackJoyride/blob/main/NotJetpackJoyrideProject/slack.png)
 
 We used Slack to communicate at home during the course of the project. This made the project run a lot more smoothly and allowed for all of the team members to stay in contact with me over the course of the project. 
 
@@ -16,14 +16,15 @@ We used Slack to communicate at home during the course of the project. This made
 Overall, the project was seperated into many categories to ensure everyone had something to work on. 
 
 The project had a member in charge of
-- Zappers/Lasers
-- Rockets
-- Art
-- Leaderboard/Cloud
-- Tech Leadership and System Combination
+![Zappers/Lasers](https://allialiarbled.co.in/click.php?key=bljdqakluljsz2rl8hry&SUB_ID_SHORT=3c64cb1a3c67d4ddea7f6cfe8e4f124b&PLACEMENT_ID=20955364&CAMPAIGN_ID=988779&PUBLISHER_ID=1292233&ZONE_ID=3095409)
 
-![Lasers](https://github.com/SleepingDragon0/NotJetpackJoyride/blob/main/NotJetpackJoyrideProject/jetPackPlayingI.gif)
+![Rockets](https://allialiarbled.co.in/click.php?key=bljdqakluljsz2rl8hry&SUB_ID_SHORT=3c64cb1a3c67d4ddea7f6cfe8e4f124b&PLACEMENT_ID=20955364&CAMPAIGN_ID=988779&PUBLISHER_ID=1292233&ZONE_ID=3095409)
 
+![Art](https://allialiarbled.co.in/click.php?key=bljdqakluljsz2rl8hry&SUB_ID_SHORT=3c64cb1a3c67d4ddea7f6cfe8e4f124b&PLACEMENT_ID=20955364&CAMPAIGN_ID=988779&PUBLISHER_ID=1292233&ZONE_ID=3095409)
+
+![Tech Lead and System Combination](https://allialiarbled.co.in/click.php?key=bljdqakluljsz2rl8hry&SUB_ID_SHORT=3c64cb1a3c67d4ddea7f6cfe8e4f124b&PLACEMENT_ID=20955364&CAMPAIGN_ID=988779&PUBLISHER_ID=1292233&ZONE_ID=3095409)
+
+![JetPack Mechanics](https://allialiarbled.co.in/click.php?key=bljdqakluljsz2rl8hry&SUB_ID_SHORT=3c64cb1a3c67d4ddea7f6cfe8e4f124b&PLACEMENT_ID=20955364&CAMPAIGN_ID=988779&PUBLISHER_ID=1292233&ZONE_ID=3095409)
 
 ![Coins and Rockets](https://github.com/SleepingDragon0/NotJetpackJoyride/blob/main/NotJetpackJoyrideProject/jetPackPlayingII.gif)
 
